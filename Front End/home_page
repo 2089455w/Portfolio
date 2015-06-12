@@ -5,14 +5,20 @@
 		<title>Ross Wilson Portfolio</title>
 		<link rel="stylesheet" type="text/css" href="theme.css">
 		<script type="text/javascript" source = "script.js"></script>
+		<link href="http://fonts.googleapis.com/css?family=Corben:bold" rel="stylesheet" type="text/css">
+		<link href="http://fonts.googleapis.com/css?family=Nobile" rel="stylesheet" type="text/css">
+
+
+
 	</head>
 
 	<body>
-		<nav>
+		<nav id = "nav">
+			<div id = 'home_title'>Portfolio</div>
 			<ul>
-				<li><a href="#">About</a></li>
-				<li><a href="#">Github</a></li>
-				<li><a href="#">Contact Me</a></li>
+				<li><a href="#" class="button">About</a></li>
+				<li><a href="#" class="button">Github</a></li>
+				<li><a href="#" class="button">Contact Me</a></li>
 			</ul>
 		</nav>
 	
